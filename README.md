@@ -5,15 +5,15 @@
 
 ### **Introduction**
 
-In 2006, Tarana Burke first coined the phrase "Me Too" to help women who had survived sexual assault or violence of any kind. For 10 years after, this phrase became an instant sensation for all people who wished to report a sexual assault encounter. In October, 2017, the #MeToo hashtag went viral on Twitter, with millions of users using this hashtag. After this movement, many men began to question their actions as men and what "masculinity" really entailed. To learn more about the #MeToo movement, go to https://www.nytimes.com/series/metoo-moment 
+In 2006, Tarana Burke first coined the phrase "Me Too" to help women who had survived sexual assault or violence of any kind. For 10 years after, this phrase became an instant sensation for all people who wished to report a sexual assault encounter. In October, 2017, the #MeToo hashtag went viral on Twitter, with millions of users using this hashtag. After this movement, many men began to question their actions as men and what "masculinity" really entailed. To learn more about the #MeToo movement, go to [www.nytimes.com/series/metoo-moment](https://www.nytimes.com/series/metoo-moment)
 
-In order to discover how men truly felt about their masculinity in the wake of the "#MeToo" movement, FiveThirtyEight created a survey in partnership with SurveyMonkey and WNYC Studios in which they polled 1,615 men above the age of 18 for two weeks in May 2018 on how masculine they feel and their lifestyle choices, asking questions such as how often do you cry. The motivation for this project came from this article: https://fivethirtyeight.com/features/what-do-men-think-it-means-to-be-a-man/ and the csv file with the data resulting from this survey can be found here: https://www.kaggle.com/fivethirtyeight/fivethirtyeight-masculinity-survey-dataset/version/96#README.md 
+In order to discover how men truly felt about their masculinity in the wake of the "#MeToo" movement, FiveThirtyEight created a survey in partnership with SurveyMonkey and WNYC Studios in which they polled 1,615 men above the age of 18 for two weeks in May 2018 on how masculine they feel and their lifestyle choices, asking questions such as how often do you cry. The motivation for this project came from this [article](https://fivethirtyeight.com/features/what-do-men-think-it-means-to-be-a-man/) and the csv file with the data resulting from this survey can be found [here](https://www.kaggle.com/fivethirtyeight/fivethirtyeight-masculinity-survey-dataset/version/96#README.md).
 
 In this project, we want to explore what factors are considered masculine in today's society and how men view these attributes. 
 
 ### **Data Collection**
 
-We imported the pandas library to curate the data from the csv file (more information about Pandas can be found here - https://pandas.pydata.org/. In order to do analysis on the data, read in the csv file and store it in a pandas dataframe. We did not have to preprocess the data because it was already formatted nicely in a csv file. The dataframe has columns which include:
+We imported the pandas library to curate the data from the csv file (more information about Pandas can be found [here](https://pandas.pydata.org/). In order to do analysis on the data, read in the csv file and store it in a pandas dataframe. We did not have to preprocess the data because it was already formatted nicely in a csv file. The dataframe has columns which include:
 
 **start date, end date, 36 questions from the survey, race and ethnicity, education, age, amount of kids, sexual orientation**
 
